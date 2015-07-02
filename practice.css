@@ -1,0 +1,17 @@
+.painting {
+	border: 4px solid purple;
+	display: inline-block;
+	vertical-align: top;
+	/* float: leftORright; */
+	width: 250px;
+	padding: 20px;
+	margin: lem;
+}
+#mine {
+	height: 500px;
+}
+
+.banner { position: relative; overflow: auto; }
+	.banner li { list-style: none; }
+		.banner ul li { float: left; }
+
